@@ -1,2 +1,2 @@
 # LinuxChromebookStartup
-This will show you how to install linux on a chromebook
+Disclaimer: this is not a easy setup, Additionally most of this information will be from the sources.md page
